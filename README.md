@@ -14,6 +14,4 @@ To Reduce the operational cost of labeling and cleaning the raw dataset.
 -Random erasing: delete some part of the initial image.
 -Mixing images: blending and mixing multiple images. 
 
-# Example
-![image](https://user-images.githubusercontent.com/77681678/228997244-e7ae6342-0fad-4fbf-8c61-3cd923484df7.png)
 
